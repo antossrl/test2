@@ -1,3 +1,6 @@
 Ciao a tutti!!!!
+<<<<<<< Temporary merge branch 1
 Ciao Paola
+=======
 Buona giornata.
+>>>>>>> Temporary merge branch 2
