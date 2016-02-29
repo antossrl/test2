@@ -1,2 +1,6 @@
 Ciao a tutti!!!!
+<<<<<<< HEAD
 Buona giornata.
+=======
+Ciao Paola
+>>>>>>> 30bb9fa874210b3c7edc2cfbcc7816d259e35b1a
